@@ -1,9 +1,11 @@
 import React from 'react';
-import Header from './components/Header/Header';
+import { Header, Cashback, Pacrtners } from './components';
 function App() {
   return (
     <div className="App">
       <Header/>
+      <Cashback/>
+      <Pacrtners/>
     </div>
   );
 }

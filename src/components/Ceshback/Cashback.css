@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root{
+    --black: #222222;
+    --index: calc(1vw + 1vh)
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.cashback__inner{
+    padding-top: 30px;
+    max-width: 40%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+.cashback__title{
+    text-align: center;
+    font-size: calc(var(--index) * 1.35);
+    font-family: 'Nunito', sans-serif;
+    margin-bottom: 8px;
+}
+.cashback__subtitle{
+    line-height: 25px;
+    text-align: center;
+    font-size: calc(var(--index) * .75);
+    font-family: 'Nunito', sans-serif;
+    margin-bottom: 25px;
+}
+.cashback__btn{
+    width: 55%;
+    height: 40px;
+    margin: 0 auto;
+    background-color: #fff;
+    font-size: calc(var(--index) * .75);
+    border: 1px solid #222;
+    color: var(--black);
+    border-radius: 30px;
+    transition: .1s ease-in;
+}
+.cashback__btn:hover{
+    background-color: #222;
+    color: #fff;
+    border-radius: 30px;
+}
+@media screen and (max-width: 780px){
+    .cashback__btn{
+        height: 35px;
+    }
+}
+@media screen and (max-width: 480px){
+    .cashback__btn{
+        height: 30px;
+    }
+}

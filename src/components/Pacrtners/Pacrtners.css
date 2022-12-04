@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root{
+    --black: #222222;
+    --index: calc(1vw + 1vh)
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.partner__inner{
+    padding-top: 30px;
+}
+.partners__logo-top{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.partners__logo-bottom{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.partners__logos{
+    padding: 20px;
+    margin: 0 auto;
+}
