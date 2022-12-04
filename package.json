@@ -1,5 +1,5 @@
 {
-  "name": "cryxxen_pool_1",
+  "name": "clean",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -34,5 +34,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "author": "Umutai <umutaiaitmamativa@gmail.com>",
+  "license": "MIT"
 }
