@@ -1,0 +1,10 @@
+export {default as One} from "./1.png";
+export {default as two} from "./2.png";
+export {default as Three} from "./3.png";
+export {default as Four} from "./4.png";
+export {default as Five} from "./5.png";
+export {default as Six} from "./6.png";
+export {default as Seven} from "./7.png";
+export {default as Apple} from "./App.png";
+export {default as Google} from "./Google.png";
+export {default as Play} from "./ico-play.png";
