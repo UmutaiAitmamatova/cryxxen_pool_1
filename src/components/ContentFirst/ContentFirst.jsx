@@ -1,25 +1,25 @@
 import React from 'react'
 import './ContentFirst.css';
 
-const ContentFirst = ({ContentImg, title, subtitle, AppleImg, GoogleImg, PlayImg, flexDirection }) => {
+const ContentFirst = ({ContentImg, title, subtitle, AppleImg, GoogleImg, PlayImg, p, flexDirection }) => {
     return (
-        <div class="content">
-        <div class="container">
-            <div class="content__inner" style={{flexDirection: flexDirection }}>
-                <div class="content__l">
-                    <div class="content__play">
+        <div className="content">
+        <div className="container">
+            <div className="content__inner" style={{flexDirection: flexDirection }}>
+                <div className="content__l">
+                    <div className="content__play">
                         <a href="#"><img src={PlayImg} alt=""/></a>
-                        <p>In every beginning, there is chaos.</p>
+                        <p>{p}</p>
                     </div>
-                    <h1 class="content__title">{title}</h1>
-                    <div class="content__subtitle">{subtitle}</div>
-                    <div class="content__nav">
-                        <a href="#" class="link"><img width="160px" src={AppleImg} alt=""/></a>
-                        <a href="#" class="link"><img width="160px" src={GoogleImg} alt=""/></a>
+                    <h1 className="content__title">{title}</h1>
+                    <div className="content__subtitle">{subtitle}</div>
+                    <div className="content__nav">
+                        <a href="#" className="link"><img src={AppleImg} alt=""/></a>
+                        <a href="#" className="link"><img src={GoogleImg} alt=""/></a>
                     </div>
                 </div>
 
-                <div class="content__r">
+                <div className="content__r">
                     <img src={ContentImg} alt="IMG_1"/>
                 </div>
             </div>

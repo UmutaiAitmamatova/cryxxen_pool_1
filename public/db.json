@@ -1,0 +1,71 @@
+{
+    "firstBlock": [
+        {
+            "id": 0,
+            "contentImg": "/content/1.png",
+            "GoogleImg": "/content/Google.png",
+            "AppleImg": "/content/App.png",
+            "title": "Peaceful shopping. Mindful money.",
+            "subtitle": "See how we can help with making your shopping experience and money management more ZEN.",
+            "p": "In every beginning, there is chaos.",
+            "PlayImg": "/content/ico-play.png"
+        }
+    ],
+    "secondBlock": [
+        {
+            "id": 0,
+            "contentImg": "/content/2.png",
+            "title": "1-year warranty boost",
+            "subtitle": "ZEN cards have a very neat feature that will help you whenever your electronic devices start failing after the standard warranty ends, which is pretty common. When you buy any electronics with your ZEN shopping Mastercard®, their warranty gets extended by one year. How does it work? It simply does. Automatically."
+        }
+    ],
+
+    "thirdBlock": [
+        {
+            "id": 0,
+            "contentImg": "/content/3.png",
+            "title": "ZEN Care",
+            "subtitle": "Shopping online is usually a delightful experience. Until it's not. Until something you buy, proves to be faulty, missing or a totally wrong item, you’re in for long product return procedures. But, here comes ZEN Care: a free, built-in shopping protection. You can rest assured we’ll handle all of the transaction-related problems faster and with higher success rates. Where lone consumers can be ignored or dumped by dishonest merchants, ZEN doesn't get discouraged. ZEN persists."
+        }
+    ],
+
+    "fourthBlock": [
+        {
+            "id": 0,
+            "contentImg": "/content/4.png",
+            "title": "ZEN shopping Mastercard",
+            "GoogleImg": "/content/PayG.png",
+            "AppleImg": "/content/PayA.png",
+            "subtitle": "You shouldn’t be bound to use one card at a time, especially when it has so many benefits! With ZEN, you can manage your shopping and finances with both physical and virtual cards. It’s convenient, streamlined, and works like a charm. You can have a shopping card, a subscription card, and whatever other cards that make sense to you."
+        }
+    ],
+
+    "fifthBlock": [
+        {
+            "id": 0,
+            "contentImg": "/content/5.png",
+            "title": "Shopping with no fees",
+            "subtitle": "ZEN cards have a very neat feature that will help you whenever your electronic devices start failing after the standard warranty ends, which is pretty common. When you buy any electronics with your ZEN shopping Mastercard®, their warranty gets extended by one year. How does it work? It simply does. Automatically. Enjoy your money globally. Every uncut part of it. Keep reading. ZEN goes beyond shopping with a fully functional account."
+        }
+    ],
+
+    "sixthBlock": [
+        {
+            "id": 0,
+            "contentImg": "/content/6.png",
+            "title": "One app, one account, many currencies",
+            "subtitle": "ZEN Mastercard® was made for spending money. ZEN account is here to store and manage it peacefully, from the inside of your pocket. You can use it just like a regular account, as it has its own IBAN and works just the way any bank account would — but better. Store up to 30 currencies and transfer them easily in many ways."
+        }
+    ],
+
+    "seventhBlock": [
+        {
+            "id": 0,
+            "contentImg": "/content/7.png",
+            "GoogleImg": "/content/Google.png",
+            "AppleImg": "/content/App.png",
+            "title": "Quick and easy account creation",
+            "subtitle": "Now, you might be thinking that it’s just like any other account creation… Long, tiresome and full of endless blanks to fill in. Well, it’s not. We have designed the whole process to make it the simplest and the shortest one ever conceived for a personal account. Download the app and see for yourself!"
+        }
+    ]
+}

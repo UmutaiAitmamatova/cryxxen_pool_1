@@ -22,9 +22,6 @@
     width: 500px;
     padding: 5%;
 }
-.content__r{
-    width: 500px;
-}
 .content__play{
     display: flex;
     align-items: center;
@@ -58,9 +55,21 @@
     }
 }
 @media screen and (max-width: 750px){
+    .content__nav {
+        flex-direction: row;
+    }
+    .content__nav .link {
+        margin-right: 40px;
+    }
+    .content__nav .link:last-child {
+        margin-right: 0;
+    }
     .content__inner{
         display: flex;
         flex-wrap: wrap;
-        justify-content: space-between;
+        justify-content: center;
+    }
+    .content__r {
+        width: auto;
     }
 }
