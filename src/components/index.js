@@ -4,3 +4,4 @@ export {default as Pacrtners} from "./Pacrtners/Pacrtners";
 export {default as Footer} from "./Footer/Footer";
 export {default as ContentFirst} from "./ContentFirst/ContentFirst";
 export {default as ContentSecond} from "./ContentSecond/ContentSecond";
+export {default as Menu} from "./Menu/Menu";
